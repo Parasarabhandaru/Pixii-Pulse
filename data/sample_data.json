@@ -1,0 +1,690 @@
+{
+  "yoga_mat": {
+    "scenario_id": "yoga_mat",
+    "scenario_name": "Yoga Mat — Missing Keywords",
+    "seller": {
+      "title": "ZenFlow Premium Yoga Mat — Durable Exercise Mat with Carrying Strap",
+      "bullets": [
+        "PREMIUM QUALITY: Made with TPE foam for a comfortable workout experience.",
+        "DURABLE CONSTRUCTION: Built to last through years of regular use.",
+        "PORTABLE DESIGN: Includes a carrying strap so you can take it anywhere.",
+        "VERSATILE USE: Great for yoga, pilates, stretching, and floor exercises.",
+        "EASY TO CLEAN: Wipe clean with a damp cloth and mild soap."
+      ],
+      "description": "ZenFlow Premium Yoga Mat is designed for the everyday practitioner. Made with quality TPE foam, this mat offers comfort and stability for your daily yoga practice. Perfect for home workouts, studio sessions, and outdoor use.",
+      "price": 29.99,
+      "rating": 3.8,
+      "review_count": 1247,
+      "reviews": [
+        "The mat is okay but it slips on hardwood floors during downward dog. Frustrating.",
+        "Decent thickness but I wish it said how many mm thick it actually is.",
+        "Slips on hardwood. Had to put a towel underneath to keep it in place.",
+        "Comfortable for the price but the grip is not great on smooth floors.",
+        "Looks nice but slips on hardwood floors when I sweat. Not safe.",
+        "Good cushioning. Feels like decent foam.",
+        "Slips on hardwood every time I do flow yoga. Disappointed.",
+        "Carrying strap is useful. Mat itself is fine for beginners.",
+        "Slips on hardwood floors and bunches up during planks.",
+        "Smell was strong out of the box but faded after a week of airing.",
+        "Average mat. Nothing special but not terrible.",
+        "Slips on hardwood floors. Had to return to my old mat for serious sessions.",
+        "Color is exactly as pictured. No complaints about appearance.",
+        "Wish it had better grip. Slides around on hardwood.",
+        "Good for stretching but not stable enough for power yoga.",
+        "Mat is comfortable but I keep wondering if it's environmentally friendly.",
+        "Edges curl up after a few weeks of use.",
+        "Lightweight which is nice but stability suffers because of it.",
+        "Bought two for my partner and me. Both have the same slipping issue.",
+        "Decent value but I wish it was thicker for knee support."
+      ]
+    },
+    "competitors": [
+      {
+        "title": "GreenGrip 6mm Thick Non-Slip Eco-Friendly Yoga Mat — Natural Rubber Base with Double-Sided Texture",
+        "bullets": [
+          "6MM EXTRA THICK: Premium 6mm thickness provides superior cushion and joint protection.",
+          "NON-SLIP DOUBLE-SIDED TEXTURE: Engineered grips on both surfaces eliminate slipping on hardwood, tile, and carpet.",
+          "ECO-FRIENDLY NATURAL RUBBER: 100% biodegradable natural rubber base — no PVC, no toxins.",
+          "MOISTURE-WICKING TOP LAYER: Stays grippy even when you sweat through a hot yoga session.",
+          "CARRYING STRAP INCLUDED: Padded strap doubles as an alignment guide for poses."
+        ],
+        "description": "GreenGrip is the choice of certified yoga instructors. Our 6mm extra-thick eco-friendly mat with double-sided non-slip texture stops the slip your old mat couldn't.",
+        "price": 49.99,
+        "rating": 4.6,
+        "review_count": 8932,
+        "reviews": [
+          "Best non-slip mat I've ever used. The 6mm thickness is perfect.",
+          "Eco-friendly and grippy. Worth every penny.",
+          "Doesn't slip at all even on hardwood. Game changer.",
+          "Thick enough that my knees don't hurt during long sessions.",
+          "Love that it's natural rubber and not PVC.",
+          "Sticks to the floor and my hands stay put. Perfect.",
+          "6mm is the right thickness. Not too thick, not too thin.",
+          "Worth the price. Bought one for my studio too.",
+          "No smell out of the box which I appreciated.",
+          "Excellent grip during hot yoga.",
+          "My instructor recommended this. So glad I switched.",
+          "Doubles as a great pilates mat too.",
+          "Carrying strap is well made.",
+          "Great cushion for floor work.",
+          "Five years of teaching and this is the best mat I've owned.",
+          "Eco-friendly without sacrificing performance.",
+          "Top texture wicks sweat away. Genius design.",
+          "Heavy but that's how you know it's quality.",
+          "No curl on the edges even after months.",
+          "Buy this one. Don't waste money on cheap options."
+        ]
+      },
+      {
+        "title": "PureFit Eco-Friendly 6mm Thick Non-Slip Yoga Mat with Alignment Lines — TPE Free, Latex-Free",
+        "bullets": [
+          "6MM THICK FOR JOINT SUPPORT: Extra cushion protects knees, wrists, and elbows during floor poses.",
+          "NON-SLIP DUAL-LAYER GRIP: Top layer grips your hands, bottom layer grips the floor.",
+          "ECO-FRIENDLY MATERIALS: PVC-free, latex-free, biodegradable. Made for the planet.",
+          "ALIGNMENT LINES: Printed guide markers help with poses and form.",
+          "FREE CARRYING STRAP AND BAG: Easy transport to and from the studio."
+        ],
+        "description": "PureFit is built for serious yogis. 6mm thick. Non-slip. Eco-friendly. Everything your old mat wasn't.",
+        "price": 44.95,
+        "rating": 4.4,
+        "review_count": 5421,
+        "reviews": [
+          "Non-slip is real. Tested on hardwood and tile.",
+          "Eco-friendly was a big selling point for me.",
+          "6mm thickness saved my knees during pigeon pose.",
+          "Alignment lines are surprisingly useful.",
+          "No slipping. Stays put through all poses.",
+          "Quality is excellent for the price.",
+          "I've tried 5 mats and this is the best non-slip one.",
+          "Latex-free is great for my allergy.",
+          "Carrying bag is a nice extra.",
+          "Holds up to daily hot yoga.",
+          "Mat is dense and stable.",
+          "Eco materials feel premium.",
+          "Cushioning is just right at 6mm.",
+          "Best purchase for my home gym.",
+          "Recommend to all my yoga friends.",
+          "Nice neutral color options.",
+          "Doesn't curl at the edges.",
+          "Worth the upgrade from my old PVC mat.",
+          "Stays grippy even when sweaty.",
+          "Excellent customer service when I had a question."
+        ]
+      }
+    ]
+  },
+  "protein_powder": {
+    "scenario_id": "protein_powder",
+    "scenario_name": "Protein Powder — Review Complaint",
+    "seller": {
+      "title": "MaxFuel Whey Protein Powder Vanilla 2lb — 25g Protein per Serving",
+      "bullets": [
+        "25G PROTEIN: Each serving delivers 25 grams of high-quality whey protein.",
+        "VANILLA FLAVOR: Smooth vanilla taste mixes well with milk or water.",
+        "30 SERVINGS PER TUB: Two-pound tub provides one month of daily servings.",
+        "BUILD MUSCLE: Supports muscle recovery and growth after workouts.",
+        "MADE IN USA: Manufactured in a GMP-certified facility."
+      ],
+      "description": "MaxFuel Whey Protein Powder is your post-workout muscle recovery solution. With 25g of protein per serving and a smooth vanilla flavor, it fits any fitness routine.",
+      "price": 32.99,
+      "rating": 3.5,
+      "review_count": 2103,
+      "reviews": [
+        "Clumps in water. I have to use a blender every time.",
+        "Tastes okay but clumps in water like crazy. Shaker doesn't help.",
+        "Clumps badly. Even with the blender ball it's still chunky.",
+        "Flavor is fine but it clumps in water no matter how I mix it.",
+        "Clumps in water. Disappointing texture.",
+        "I gave up shaking and now I just blend it. Clumps too easily.",
+        "Clumps in water. Not the easy-mix formula I was hoping for.",
+        "Tons of clumps. Have to drink it fast before they sink.",
+        "Clumps in water and milk. Not great.",
+        "Mixing is a struggle. Clumps form immediately.",
+        "Clumps in water. Wish it was instant dissolve.",
+        "Clumps so badly I almost choked once. Use a blender.",
+        "25g protein is good but the clumping ruins it.",
+        "Vanilla flavor is decent.",
+        "Decent price for the quantity but mixing is poor.",
+        "Lid is sturdy.",
+        "My workout partner gave up on this brand because of mixing issues.",
+        "Powder texture is grainy.",
+        "Recovery is fine but the daily clump fight is annoying.",
+        "Will not buy again — too many clumps."
+      ]
+    },
+    "competitors": [
+      {
+        "title": "PrimeWhey Easy Mix Formula Vanilla Protein 2lb — 26g Protein, Instant Dissolve, No Clumps",
+        "bullets": [
+          "EASY MIX FORMULA: Specially engineered to dissolve in seconds — no clumps, no grit.",
+          "26G PROTEIN PER SERVING: Premium whey isolate for fast absorption.",
+          "INSTANT DISSOLVE TECHNOLOGY: Mixes smoothly with just a spoon — no blender needed.",
+          "VANILLA BEAN FLAVOR: Real Madagascar vanilla. No artificial aftertaste.",
+          "30 SERVINGS PER TUB: Lasts a full month of daily training."
+        ],
+        "description": "PrimeWhey is engineered for athletes who don't have time to fight their shaker. Our easy mix formula and instant dissolve technology mean every scoop drinks smooth.",
+        "price": 39.99,
+        "rating": 4.7,
+        "review_count": 11240,
+        "reviews": [
+          "Mixes instantly. No clumps at all. Finally.",
+          "Easy mix formula is the real deal. Just stir with a spoon.",
+          "Best mixing protein I've ever used.",
+          "No clumps. None. Switched from another brand and night and day.",
+          "Instant dissolve actually instant. Impressed.",
+          "Tastes great and mixes great.",
+          "Worth every penny. Mixing perfectly every time.",
+          "Vanilla flavor is excellent.",
+          "26g protein and clean ingredient list.",
+          "Buy this if you hate clumps.",
+          "Mixes in water cold, hot, anywhere.",
+          "Powder is fine and consistent.",
+          "Tub seal is solid.",
+          "Family of bodybuilders all use this now.",
+          "Coach recommended. So glad I switched.",
+          "Macros are clean.",
+          "Daily go-to post workout.",
+          "Easy mix formula is exactly as advertised.",
+          "Mixes in milk like a milkshake.",
+          "Top-tier protein powder."
+        ]
+      },
+      {
+        "title": "FlexFuel Instant Dissolve Whey Protein Vanilla 2lb — Clump-Free Easy Mix Formula",
+        "bullets": [
+          "INSTANT DISSOLVE: Designed for shaker bottles — mixes in 5 seconds, zero clumps.",
+          "EASY MIX FORMULA: Fine-particle whey blends in any liquid temperature.",
+          "25G PROTEIN: High-quality whey concentrate for muscle recovery.",
+          "VANILLA FLAVOR: Smooth, sweet, no chalky aftertaste.",
+          "MONEY-BACK GUARANTEE: If you find a single clump, we refund the tub."
+        ],
+        "description": "FlexFuel is built for the shaker bottle. Instant dissolve. Clump-free. Easy mix formula that works every time.",
+        "price": 35.99,
+        "rating": 4.5,
+        "review_count": 7890,
+        "reviews": [
+          "Instant dissolve as promised. Zero clumps.",
+          "Easy mix formula works perfectly.",
+          "Mixes clean every time. Even in cold water.",
+          "Vanilla is great.",
+          "Best protein for shaker bottle users.",
+          "No clumps. Money-back guarantee gave me confidence.",
+          "Switched from a clumpy brand and so much happier.",
+          "Smooth texture. Easy on the stomach.",
+          "Daily go-to.",
+          "Mixing is effortless.",
+          "Tub lasts a month of daily use.",
+          "Instant dissolve really is instant.",
+          "Affordable for the quality.",
+          "No grittiness at all.",
+          "Highly recommend.",
+          "Shake it once and it's done.",
+          "Tastes good even with just water.",
+          "Easy mix is a must-have feature.",
+          "Five stars for mixing alone.",
+          "Quality protein, fair price."
+        ]
+      }
+    ]
+  },
+  "laptop_stand": {
+    "scenario_id": "laptop_stand",
+    "scenario_name": "Laptop Stand — Weak Hook",
+    "seller": {
+      "title": "Laptop Stand Adjustable Height",
+      "bullets": [
+        "ADJUSTABLE: Multiple height settings for your laptop.",
+        "ALUMINUM: Made with aluminum construction.",
+        "PORTABLE: Folds for easy storage and transport.",
+        "COMPATIBLE: Works with most laptops up to 17 inches.",
+        "SLEEK DESIGN: Modern look fits any desk."
+      ],
+      "description": "Adjustable laptop stand for your home office. Aluminum body. Folds for transport. Works with most laptops.",
+      "price": 24.99,
+      "rating": 4.0,
+      "review_count": 612,
+      "reviews": [
+        "Decent stand but the title doesn't tell you anything about benefits.",
+        "Works fine but I can't tell what makes it better than the others.",
+        "Bought it because it was cheapest. Wish I'd known more.",
+        "It does the job. Nothing exciting.",
+        "Average product. Wish the listing was clearer about features.",
+        "Adjustable, yes. But that's about all the listing tells you.",
+        "Got it. It's a stand. Lifts the laptop.",
+        "I had to read the reviews to figure out if it would help my posture.",
+        "Decent build quality but the listing didn't sell me on it.",
+        "Took me 5 minutes to set up. Wish I had known it was that easy.",
+        "Aluminum is sturdy enough.",
+        "Works with my 15 inch MacBook fine.",
+        "Folds flat for travel.",
+        "No extras included. Just the stand.",
+        "Color is silver as expected.",
+        "Heights are okay but limited.",
+        "Wobbles a little at full height.",
+        "Did help my neck pain after a few weeks.",
+        "Generic looking but functional.",
+        "Fine for the price. Not the best, not the worst."
+      ]
+    },
+    "competitors": [
+      {
+        "title": "Ergonomic Laptop Stand — Eliminate Neck Pain in 5 Minutes — Doctor Recommended for Posture",
+        "bullets": [
+          "ELIMINATE NECK PAIN: Raises your screen to eye level — recommended by chiropractors and physical therapists.",
+          "5-MINUTE POSTURE FIX: Most users report neck pain relief within the first week of use.",
+          "AIRFLOW VENTILATION: Open-frame design keeps your laptop 30% cooler under load.",
+          "FOLD-FLAT TRAVEL DESIGN: Slips into your bag — set up anywhere in 10 seconds.",
+          "PREMIUM AIRCRAFT-GRADE ALUMINUM: Holds up to 22lbs without flex or wobble."
+        ],
+        "description": "Stop hurting. Eliminate neck pain in 5 minutes with the Ergonomic Laptop Stand — the doctor-recommended posture fix that travels with you.",
+        "price": 34.99,
+        "rating": 4.7,
+        "review_count": 14321,
+        "reviews": [
+          "My neck pain improved within a week. Worth every penny.",
+          "Doctor recommended this. So glad I bought it.",
+          "Neck pain improved dramatically. I work pain-free now.",
+          "Solid build. Aluminum is genuine quality.",
+          "Folds flat for my work bag.",
+          "Set it up in literally 30 seconds.",
+          "Cooled my MacBook noticeably.",
+          "Posture is so much better now.",
+          "Neck pain improved after 3 days of use.",
+          "Eye-level monitor changed my workday.",
+          "Best ergonomic upgrade I've made.",
+          "My chiropractor recommended this exact one.",
+          "Sturdy at all heights.",
+          "Heights are perfect for my 6'2 frame.",
+          "Travels with me on every trip.",
+          "Great gift for remote workers.",
+          "Premium feel for a fair price.",
+          "Five stars. Buy it.",
+          "Wish I'd bought this years ago.",
+          "Neck pain improved in just under a week."
+        ]
+      },
+      {
+        "title": "PostureFix Laptop Stand — End Daily Neck Strain — Adjustable Ergonomic Riser for All Laptops",
+        "bullets": [
+          "END NECK STRAIN: Engineered to position your screen at the ergonomically correct viewing angle.",
+          "9 ADJUSTABLE HEIGHTS: Custom-fit your posture from sitting to standing desk use.",
+          "AIRFLOW COOLING DESIGN: Reduces laptop heat by up to 30%.",
+          "FITS LAPTOPS UP TO 17 INCHES: Compatible with MacBook, Dell XPS, Lenovo, HP, all major brands.",
+          "FOLDS TO 1.5 INCHES: Slips into your laptop bag for travel."
+        ],
+        "description": "PostureFix is the ergonomic laptop stand that ends daily neck strain. 9 heights, airflow cooling, and a fold-flat travel design — every detail engineered for working pain-free.",
+        "price": 29.99,
+        "rating": 4.6,
+        "review_count": 9876,
+        "reviews": [
+          "Ended my neck strain. Honestly life-changing for desk work.",
+          "9 height settings means I get the perfect angle every time.",
+          "Cooling is a real difference — laptop runs cooler.",
+          "Folds to almost nothing. Easy travel.",
+          "Posture is night and day better.",
+          "Great for my standing desk routine.",
+          "Sturdy. No wobble even at top height.",
+          "Bought two — one for home, one for office.",
+          "Daily neck strain is gone after a month.",
+          "Quality build. Feels premium.",
+          "Heights work for both sitting and standing.",
+          "Compatible with my 17-inch gaming laptop.",
+          "Surprised at how light it is for the strength.",
+          "Setup was instant.",
+          "Best $30 I've spent on my workspace.",
+          "Five stars for back pain relief.",
+          "Cooling vents really help during long sessions.",
+          "Travels easily in my backpack.",
+          "Comfortable typing angle.",
+          "Recommend to anyone with neck issues."
+        ]
+      }
+    ]
+  },
+  "coffee_grinder": {
+    "scenario_id": "coffee_grinder",
+    "scenario_name": "Coffee Grinder — Mixed Issues",
+    "seller": {
+      "title": "BrewMate Electric Coffee Grinder — Stainless Steel — 12 Cup Capacity",
+      "bullets": [
+        "STAINLESS STEEL: Durable stainless steel blade and body.",
+        "12 CUP CAPACITY: Grinds enough beans for up to 12 cups of coffee.",
+        "ONE-TOUCH OPERATION: Press and hold to grind to your preferred coarseness.",
+        "EASY TO CLEAN: Removable grinding cup wipes clean.",
+        "COMPACT SIZE: Fits on any countertop without taking up space."
+      ],
+      "description": "BrewMate Electric Coffee Grinder for the home barista. Stainless steel construction with a 12 cup capacity. Press and grind.",
+      "price": 39.99,
+      "rating": 3.6,
+      "review_count": 845,
+      "reviews": [
+        "Way too loud. Wakes up my whole household.",
+        "Grind is uneven. Some beans pulverized, others barely cracked.",
+        "Too loud for early mornings.",
+        "Inconsistent grind. Need a real burr grinder for espresso.",
+        "Loud enough that I have to time it around the kids waking up.",
+        "Blade grinder, not burr. Grind quality suffers.",
+        "Too loud and grind is uneven.",
+        "Sounds like a jackhammer at 6am.",
+        "Inconsistent grind ruins my pour-overs.",
+        "Way too loud — neighbors can hear it through the wall.",
+        "Wish it was a burr grinder for consistent grind.",
+        "Quiet motor would have been a selling point. This isn't it.",
+        "Grind size is anyone's guess each time.",
+        "Loud and inconsistent. Not a fan.",
+        "Stainless steel build is solid at least.",
+        "Capacity is generous.",
+        "Easy to clean as advertised.",
+        "Compact for small kitchens.",
+        "One-touch is convenient.",
+        "Decent for drip coffee but not espresso."
+      ]
+    },
+    "competitors": [
+      {
+        "title": "PrecisionGrind Burr Coffee Grinder — Consistent Grind Every Time — Quiet Motor — 40 Settings",
+        "bullets": [
+          "CONIC BURR GRINDER: True burr design delivers a consistent grind from espresso fine to French press coarse.",
+          "QUIET MOTOR: Industry-leading low-noise design — under 60dB even at full speed.",
+          "40 GRIND SETTINGS: Dial in your perfect extraction every time.",
+          "COMMERCIAL-GRADE STEEL BURRS: Hardened steel burrs last 10x longer than blade grinders.",
+          "ANTI-STATIC GROUND BIN: No mess, no clinging grounds."
+        ],
+        "description": "PrecisionGrind is the burr grinder for coffee enthusiasts who want a consistent grind, a quiet motor, and 40 settings to dial in their perfect cup.",
+        "price": 89.99,
+        "rating": 4.7,
+        "review_count": 4302,
+        "reviews": [
+          "Quiet motor is the best feature. Finally morning coffee without waking the house.",
+          "Consistent grind every single time. Burr grinder is the way.",
+          "40 settings is overkill but I love it.",
+          "Best burr grinder under $100.",
+          "Quiet motor and consistent grind. Win-win.",
+          "Burrs feel commercial grade.",
+          "No more stale uneven grounds.",
+          "Quiet enough that I run it at 5am.",
+          "Espresso grind is on point.",
+          "French press grind is exactly right.",
+          "Anti-static bin is genius.",
+          "Build quality is excellent.",
+          "Replaced my blade grinder and never looking back.",
+          "Coffee tastes better with consistent grind.",
+          "Quiet motor saved my marriage.",
+          "Solid investment for daily coffee drinkers.",
+          "Worth twice the price of a blade grinder.",
+          "Settings are easy to dial in.",
+          "Holds enough for a week of brewing.",
+          "Highly recommend for any home barista."
+        ]
+      },
+      {
+        "title": "BaristaPro Quiet Burr Grinder — Consistent Grind for Espresso, Drip, French Press — 30 Settings",
+        "bullets": [
+          "QUIET BURR MOTOR: Low-vibration burr grinder runs whisper-quiet at under 65dB.",
+          "CONSISTENT GRIND: Conical burrs deliver uniform particle size for any brew method.",
+          "30 SETTINGS: From espresso fine to French press coarse with precise control.",
+          "ALL-METAL CONSTRUCTION: Heavy-duty steel body and burrs built to last.",
+          "AUTO-OFF SAFETY: Stops automatically when the bin is full or removed."
+        ],
+        "description": "BaristaPro brings cafe-quality grinding home. Quiet motor, consistent grind, and 30 settings — everything a serious home barista needs.",
+        "price": 74.99,
+        "rating": 4.5,
+        "review_count": 2810,
+        "reviews": [
+          "Burr grinder makes a real difference.",
+          "Quiet motor lets me grind at any hour.",
+          "Consistent grind is what I needed for espresso.",
+          "Solid build, all metal.",
+          "30 settings cover every brew method I use.",
+          "Quiet enough to not wake the baby.",
+          "Auto-off is a nice safety feature.",
+          "Worth the upgrade from a blade grinder.",
+          "Coffee finally tastes the way it should.",
+          "Burrs grind cleanly and consistently.",
+          "Quality construction.",
+          "Quiet and consistent — exactly what I bought it for.",
+          "Easy to clean.",
+          "Settings are intuitive.",
+          "Daily driver in my kitchen.",
+          "Burr grinder is the only way to go.",
+          "Highly recommend.",
+          "Solid value for a quiet burr grinder.",
+          "Two months in and still loving it.",
+          "Buy this if you want a real grinder."
+        ]
+      }
+    ]
+  },
+  "resistance_bands": {
+    "scenario_id": "resistance_bands",
+    "scenario_name": "Resistance Bands — Price Drop + Keywords",
+    "seller": {
+      "title": "FlexBand Resistance Bands Set — 5 Levels — Home Workout Equipment",
+      "bullets": [
+        "5 RESISTANCE LEVELS: From light to extra heavy, suit any workout.",
+        "DURABLE BUILD: Long-lasting bands for regular use.",
+        "VERSATILE: For strength training, stretching, and rehab.",
+        "PORTABLE: Lightweight set fits in any gym bag.",
+        "INCLUDES HANDLES: Foam-grip handles for comfort."
+      ],
+      "description": "FlexBand resistance bands set with 5 levels of resistance. Great for home workouts, stretching, and physical therapy.",
+      "price": 24.99,
+      "rating": 3.7,
+      "review_count": 1502,
+      "reviews": [
+        "One band snapped after two weeks. Not durable.",
+        "Snapped during a back row. Glad it didn't hit my face.",
+        "Bands are okay but one snapped on light usage.",
+        "Snapped on me. Worried about safety now.",
+        "Snapped after 10 uses. Disappointing.",
+        "Two bands broke. Not snap-proof at all.",
+        "Snapped during lateral raises. Returned the set.",
+        "My band broke after a month. Cheap material.",
+        "I'm allergic to latex — wish the listing said if these are latex-free.",
+        "Decent bands until one snapped.",
+        "Foam handles are fine.",
+        "5 levels is a nice range.",
+        "Light enough for travel.",
+        "Use them for rehab. They work for that.",
+        "Color coded which is helpful.",
+        "Lightest band is too light for me.",
+        "Heaviest band is fine.",
+        "Bag is small and portable.",
+        "Stretchy at first then lost tension after a month.",
+        "Decent value but quality control is poor."
+      ]
+    },
+    "competitors": [
+      {
+        "title": "IronCore Snap-Proof Latex-Free Resistance Bands Set — 5 Levels — Lifetime Warranty",
+        "bullets": [
+          "SNAP-PROOF DESIGN: Reinforced multi-layer construction — guaranteed never to snap.",
+          "100% LATEX-FREE: Safe for sensitive skin and latex allergies.",
+          "5 RESISTANCE LEVELS: From 10lb to 50lb for every fitness level.",
+          "LIFETIME WARRANTY: If a band ever fails, we replace it free.",
+          "PREMIUM HANDLES AND DOOR ANCHOR INCLUDED."
+        ],
+        "description": "IronCore snap-proof latex-free resistance bands. Reinforced for safety. Backed for life.",
+        "price": 21.24,
+        "rating": 4.6,
+        "review_count": 6743,
+        "price_history": [
+          {"date": "2026-04-15", "price": 24.99},
+          {"date": "2026-05-01", "price": 21.24}
+        ],
+        "reviews": [
+          "Snap-proof for real. Two years of daily use, no failures.",
+          "Latex-free was a must for my allergy.",
+          "Lifetime warranty is the real deal.",
+          "Snap-proof reinforced design feels premium.",
+          "Best resistance bands I've owned.",
+          "Latex-free and durable.",
+          "5 levels cover everything I do.",
+          "Door anchor is genius.",
+          "Snap-proof tested under heavy load.",
+          "Worth the upgrade.",
+          "No snapping ever. Trust the brand.",
+          "Latex-free is great for sensitive skin.",
+          "Solid handles, well-made.",
+          "Bag is high quality.",
+          "Buy these. Stop wasting money on cheap bands.",
+          "Lifetime warranty came through when I tested it.",
+          "Premium quality. Five stars.",
+          "Snap-proof in heavy resistance training.",
+          "Latex-free construction is gentle.",
+          "Highly recommend for serious lifters."
+        ]
+      },
+      {
+        "title": "PowerBands Snap-Proof Latex-Free Resistance Set — 5 Levels — Yoga, Pilates, Home Gym",
+        "bullets": [
+          "SNAP-PROOF MULTI-LAYER: Engineered to handle 200+ lbs of force without snapping.",
+          "LATEX-FREE: Hypoallergenic material safe for all skin types.",
+          "5 LEVELS: Color-coded resistance from beginner to advanced.",
+          "FULL ACCESSORY KIT: Handles, ankle straps, door anchor, carry bag.",
+          "30-DAY MONEY-BACK GUARANTEE."
+        ],
+        "description": "PowerBands snap-proof latex-free resistance bands set. Built for safety, designed for results.",
+        "price": 19.99,
+        "rating": 4.5,
+        "review_count": 4521,
+        "reviews": [
+          "Snap-proof bands. Use them every day. No issues.",
+          "Latex-free which I needed.",
+          "Full kit is great value.",
+          "Strong bands. Don't stretch out.",
+          "Five levels of resistance is perfect.",
+          "Snap-proof construction shows.",
+          "Latex-free helps my allergy.",
+          "Color coding makes it easy to grab the right one.",
+          "Door anchor opens up so many exercises.",
+          "Bag fits everything neatly.",
+          "Best home gym addition.",
+          "Snap-proof tested with chest presses.",
+          "Latex-free and odor-free.",
+          "Money-back guarantee gave me confidence.",
+          "Bands are tough but flexible.",
+          "Highly recommend.",
+          "Worth every penny.",
+          "Premium feel for the price.",
+          "Snap-proof under heavy load.",
+          "Latex-free and great quality."
+        ]
+      }
+    ]
+  },
+  "water_bottle": {
+    "scenario_id": "water_bottle",
+    "scenario_name": "Water Bottle — Hidden Strength",
+    "seller": {
+      "title": "Stainless Steel Water Bottle 32oz",
+      "bullets": [
+        "32OZ CAPACITY: Holds plenty of water for the day.",
+        "STAINLESS STEEL: Made of stainless steel for durability.",
+        "MULTIPLE COLORS: Available in several colors.",
+        "EASY TO CLEAN: Wide mouth opening.",
+        "BPA FREE: Free of BPA and harmful chemicals."
+      ],
+      "description": "Stainless steel water bottle with 32 ounce capacity. Multiple colors available. BPA free.",
+      "price": 22.99,
+      "rating": 4.2,
+      "review_count": 980,
+      "reviews": [
+        "Keeps drinks cold for the entire day. Best feature.",
+        "Cold for hours. Even ice still there at end of work day.",
+        "Drinks stay cold all day at the office.",
+        "Keeps water cold even in the hot car.",
+        "Cold temperature retention is amazing.",
+        "I love how cold it keeps drinks. Way better than expected.",
+        "Cold all day even in summer hiking.",
+        "Drinks cold from morning to evening.",
+        "Surprisingly good at keeping ice frozen.",
+        "Cold drinks all day long.",
+        "Sturdy bottle. Looks fine.",
+        "Wide mouth makes ice easy to add.",
+        "Color options are nice.",
+        "Easy to clean as said.",
+        "Decent build.",
+        "Lid seal is okay.",
+        "32oz is the right size for daily use.",
+        "BPA-free is reassuring.",
+        "Average bottle but performs well.",
+        "Solid for the price."
+      ]
+    },
+    "competitors": [
+      {
+        "title": "FrostFlask 32oz Leak-Proof Insulated Water Bottle — Stays Cold 24 Hours — Hot 12 Hours",
+        "bullets": [
+          "STAYS COLD 24 HOURS: Triple-wall vacuum insulation keeps drinks ice-cold all day and overnight.",
+          "STAYS HOT 12 HOURS: Same insulation keeps coffee piping hot for the morning commute.",
+          "100 PERCENT LEAK-PROOF: Engineered seal — toss it in your bag with confidence.",
+          "32OZ CAPACITY: Hydrate all day with one fill.",
+          "FOOD-GRADE STAINLESS STEEL: BPA-free, rust-proof, tasteless."
+        ],
+        "description": "FrostFlask is the leak-proof insulated water bottle that stays cold 24 hours. Triple-wall vacuum insulation. Built for the daily commute and the weekend trail.",
+        "price": 29.99,
+        "rating": 4.8,
+        "review_count": 18420,
+        "reviews": [
+          "Stays cold for 24 hours as advertised. Tested it.",
+          "Leak-proof. Lives in my work bag.",
+          "Coffee stayed hot through my whole morning meeting.",
+          "Best insulated bottle I've owned.",
+          "Cold drinks at 3pm with ice still floating.",
+          "Triple-wall insulation is the real deal.",
+          "Leak-proof seal is bulletproof.",
+          "32oz lasts me through a workout.",
+          "Stays cold even in 100 degree heat.",
+          "Hot drinks for hours.",
+          "No taste transfer between drinks.",
+          "Sturdy build, no dents after drops.",
+          "Worth the price.",
+          "Cold 24 hours is no exaggeration.",
+          "Daily commuter bottle.",
+          "Leak-proof in my gym bag.",
+          "Insulation is best in class.",
+          "Hot tea stays hot the whole afternoon.",
+          "Gift-worthy quality.",
+          "Buy this and stop searching."
+        ]
+      },
+      {
+        "title": "ArcticVault 32oz Vacuum Insulated Leak-Proof Bottle — Cold 24 Hours — Outdoor & Sport",
+        "bullets": [
+          "COLD 24 HOURS GUARANTEED: Vacuum insulation locks in ice for full-day cold.",
+          "LEAK-PROOF SCREW LID: No drips, no spills — bagworthy.",
+          "INSULATED FOR HOT OR COLD: Coffee, tea, smoothies, water, ice — all stay temperature locked.",
+          "32OZ ALL-DAY CAPACITY: One fill covers your day at the office, gym, or trail.",
+          "DURABLE 18/8 STAINLESS STEEL: Made for outdoor adventure and daily hauls."
+        ],
+        "description": "ArcticVault is the 32oz vacuum insulated leak-proof bottle for people who want their drink cold 24 hours from now. Built for everyday and outdoor.",
+        "price": 27.99,
+        "rating": 4.6,
+        "review_count": 11200,
+        "reviews": [
+          "Cold 24 hours, confirmed.",
+          "Leak-proof in my hiking pack.",
+          "Best vacuum insulated bottle I've tried.",
+          "Hot or cold, it keeps it.",
+          "32oz is perfect size.",
+          "Sturdy build, great quality.",
+          "Cold drinks all day at the office.",
+          "No leaks, period.",
+          "Insulation works as promised.",
+          "Daily go-to bottle.",
+          "Tea stays hot for the afternoon.",
+          "Smooth lid threading.",
+          "Outdoor-tough.",
+          "Five stars for cold retention.",
+          "Stays cold even on long runs.",
+          "Premium feel.",
+          "Worth the price.",
+          "Highly recommend.",
+          "Insulation is unmatched.",
+          "Cold drinks 24 hours later, still cold."
+        ]
+      }
+    ]
+  }
+}

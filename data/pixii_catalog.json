@@ -1,0 +1,126 @@
+{
+  "seller_id": "PB-00417",
+  "seller_name": "PrimeBrands Co.",
+  "onboarded_date": "2025-09-12",
+  "_note": "Simulates the seller record Pixii already has. In production, ORACLE reads this from Pixii's database — the seller never paste URLs.",
+  "skus": [
+    {
+      "sku_id": "PB-YOGA-01",
+      "asin": "B08YGM1234",
+      "title": "ZenFlow Premium Yoga Mat — Durable Exercise Mat with Carrying Strap",
+      "category": "Yoga & Fitness",
+      "scenario_id": "yoga_mat",
+      "last_analysis_date": "2026-04-28",
+      "conversion_rate_30d": 8.2,
+      "conversion_rate_trend_pct": -14.3,
+      "ad_spend_30d_usd": 3420.00,
+      "rank_change_7d": -47,
+      "priority_score": 87,
+      "priority_reason": "Conversion rate down 14% over 30 days, BSR rank down 47 spots in 7 days.",
+      "competitive_set_asins": ["B09GG6MM11", "B0AKPF6622"],
+      "marketplaces": {
+        "US": {"price_local": 29.99, "currency": "USD"},
+        "UK": {"price_local": 24.99, "currency": "GBP"},
+        "DE": {"price_local": 36.99, "currency": "EUR"}
+      }
+    },
+    {
+      "sku_id": "PB-PRO-02",
+      "asin": "B07MFW7788",
+      "title": "MaxFuel Whey Protein Powder Vanilla 2lb — 25g Protein per Serving",
+      "category": "Sports Nutrition",
+      "scenario_id": "protein_powder",
+      "last_analysis_date": "2026-04-29",
+      "conversion_rate_30d": 6.1,
+      "conversion_rate_trend_pct": -9.8,
+      "ad_spend_30d_usd": 5870.00,
+      "rank_change_7d": -28,
+      "priority_score": 82,
+      "priority_reason": "Review velocity skewing negative — 12 of last 20 reviews mention mixing complaints.",
+      "competitive_set_asins": ["B0PWHEY9911", "B0FFLEX5522"],
+      "marketplaces": {
+        "US": {"price_local": 32.99, "currency": "USD"},
+        "UK": {"price_local": 26.99, "currency": "GBP"},
+        "CA": {"price_local": 44.99, "currency": "CAD"}
+      }
+    },
+    {
+      "sku_id": "PB-LAP-03",
+      "asin": "B09LST3344",
+      "title": "Laptop Stand Adjustable Height",
+      "category": "Office Products",
+      "scenario_id": "laptop_stand",
+      "last_analysis_date": "2026-04-30",
+      "conversion_rate_30d": 4.7,
+      "conversion_rate_trend_pct": -6.2,
+      "ad_spend_30d_usd": 1240.00,
+      "rank_change_7d": -12,
+      "priority_score": 65,
+      "priority_reason": "Hook gap — title underperforming benefit-led competitors on key search terms.",
+      "competitive_set_asins": ["B0ERGO8877", "B0PFIX2255"],
+      "marketplaces": {
+        "US": {"price_local": 24.99, "currency": "USD"},
+        "UK": {"price_local": 19.99, "currency": "GBP"}
+      }
+    },
+    {
+      "sku_id": "PB-COF-04",
+      "asin": "B0CGRD5566",
+      "title": "BrewMate Electric Coffee Grinder — Stainless Steel — 12 Cup Capacity",
+      "category": "Kitchen",
+      "scenario_id": "coffee_grinder",
+      "last_analysis_date": "2026-04-30",
+      "conversion_rate_30d": 7.4,
+      "conversion_rate_trend_pct": -11.5,
+      "ad_spend_30d_usd": 2810.00,
+      "rank_change_7d": -19,
+      "priority_score": 78,
+      "priority_reason": "Mixed signals — keyword gap on 'burr/quiet/consistent' plus 8 review complaints on noise.",
+      "competitive_set_asins": ["B0PRGRND01", "B0BARPRO04"],
+      "marketplaces": {
+        "US": {"price_local": 39.99, "currency": "USD"},
+        "DE": {"price_local": 38.99, "currency": "EUR"}
+      }
+    },
+    {
+      "sku_id": "PB-RES-05",
+      "asin": "B0FBND7799",
+      "title": "FlexBand Resistance Bands Set — 5 Levels — Home Workout Equipment",
+      "category": "Sports & Fitness",
+      "scenario_id": "resistance_bands",
+      "last_analysis_date": "2026-05-01",
+      "conversion_rate_30d": 5.8,
+      "conversion_rate_trend_pct": -22.1,
+      "ad_spend_30d_usd": 4150.00,
+      "rank_change_7d": -64,
+      "priority_score": 91,
+      "priority_reason": "Competitor IronCore dropped price 15% overnight — ad spend up but conversion collapsing.",
+      "competitive_set_asins": ["B0IRC0RE99", "B0PWBNDS44"],
+      "marketplaces": {
+        "US": {"price_local": 24.99, "currency": "USD"},
+        "UK": {"price_local": 26.99, "currency": "GBP"},
+        "CA": {"price_local": 35.99, "currency": "CAD"}
+      }
+    },
+    {
+      "sku_id": "PB-WAT-06",
+      "asin": "B0SSBT4477",
+      "title": "Stainless Steel Water Bottle 32oz",
+      "category": "Sports & Outdoors",
+      "scenario_id": "water_bottle",
+      "last_analysis_date": "2026-05-01",
+      "conversion_rate_30d": 9.1,
+      "conversion_rate_trend_pct": 1.4,
+      "ad_spend_30d_usd": 980.00,
+      "rank_change_7d": -3,
+      "priority_score": 54,
+      "priority_reason": "Stable performer with hidden strength — 'cold 24h' praise pattern not surfaced in listing.",
+      "competitive_set_asins": ["B0FRSTFL88", "B0ARCVLT22"],
+      "marketplaces": {
+        "US": {"price_local": 22.99, "currency": "USD"},
+        "UK": {"price_local": 18.99, "currency": "GBP"},
+        "AU": {"price_local": 36.99, "currency": "AUD"}
+      }
+    }
+  ]
+}

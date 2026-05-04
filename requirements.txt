@@ -1,0 +1,10 @@
+streamlit
+groq
+beautifulsoup4
+requests
+pandas
+python-dotenv
+plotly
+apscheduler
+pytrends
+# sqlite3 is built into Python — no install needed
