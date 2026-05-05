@@ -1,6 +1,6 @@
 # Pixii Pulse — Amazon Intelligence Platform
 
-One-line summary: Paste your Amazon product URL → get 3 ready-to-approve actions, already written.
+One-line summary: wake-up and ready-to-approve actions, already written.
 
 ## External APIs and tools (beyond the LLM)
 
